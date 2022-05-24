@@ -271,8 +271,8 @@ void clear_file(const char *filename){
 
 void title(void){
 	system("cls");
-	printf("                                                         \n _|      _|  _|_|_|_|_|        _|_|_|  _|    _|  _|_|_|  \n   _|  _|        _|          _|        _|    _|    _|    \n     _|          _|          _|  _|_|  _|    _|    _|    \n     _|          _|          _|    _|  _|    _|    _|    \n     _|          _|            _|_|_|    _|_|    _|_|_|  \n\n\n");
+	printf("                                                                             \n _|      _|  _|_|_|_|_|  _|_|_|      _|_|      _|_|_|  _|_|_|_|_|    _|_|    \n   _|  _|        _|      _|    _|  _|    _|  _|            _|      _|    _|  \n     _|          _|      _|_|_|    _|_|_|_|    _|_|        _|      _|_|_|_|  \n     _|          _|      _|        _|    _|        _|      _|      _|    _|  \n     _|          _|      _|        _|    _|  _|_|_|        _|      _|    _|  \n\n\n");
 	printf(
-	        "YouTube Downloader GUI - 0.1.0 Stable\nCree par Theo SALLES (Nerd)\nE-mail : imalonelynerd@gmail.com\nLicense WTFPL (http://www.wtfpl.net/txt/copying/)\nLogo par Icons8 (https://icons8.com/icon/9a46bTk3awwI/youtube)");
+	        "Version : 0.1.0 Stable\nAuteur : Theo SALLES (Nerd)\nE-mail : imalonelynerd@gmail.com\nLicense : WTFPL (http://www.wtfpl.net/txt/copying/)\nLogo : Icons8 (https://icons8.com/icon/9a46bTk3awwI/youtube)");
 	printf("\n\n\n");
 }
