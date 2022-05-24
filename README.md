@@ -1,5 +1,5 @@
 # yt-pasta
-Une interface simple pour **youtube-dl** avec une interface dans le terminal.
+Une application basique pour **youtube-dl** avec une interface dans le terminal.
 
 ## Installation
 
